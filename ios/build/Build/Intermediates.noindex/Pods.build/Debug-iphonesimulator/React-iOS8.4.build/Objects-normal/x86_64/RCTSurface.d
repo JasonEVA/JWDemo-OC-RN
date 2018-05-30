@@ -1,0 +1,43 @@
+dependencies: \
+  /Users/wangzhe/Documents/我的项目/RNDemo/node_modules/react-native/React/Base/Surface/RCTSurface.mm \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Target\ Support\ Files/React-iOS8.4/React-iOS8.4-prefix.pch \
+  /Users/wangzhe/Documents/我的项目/RNDemo/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTSurfaceStage.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTDefines.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/node_modules/react-native/React/Base/Surface/RCTSurfaceView+Internal.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTSurfaceView.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTBridge.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTBridgeDelegate.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTJavaScriptLoader.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTBridgeModule.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTFrameUpdate.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTInvalidating.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTShadowView.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTComponent.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTLayout.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTRootView.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/node_modules/react-native/React/Base/Surface/RCTSurfaceDelegate.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTSurfaceRootShadowViewDelegate.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/node_modules/react-native/React/Base/Surface/RCTSurfaceRootView.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTView.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTBorderStyle.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTPointerEvents.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/node_modules/react-native/React/Base/RCTTouchHandler.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTViewManager.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTConvert.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTAnimationType.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTLog.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTUtils.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTTextDecorationLineType.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/RCTEventDispatcher.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/Pods/Headers/Private/React/React/UIView+React.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/node_modules/react-native/React/Modules/RCTUIManagerUtils.h

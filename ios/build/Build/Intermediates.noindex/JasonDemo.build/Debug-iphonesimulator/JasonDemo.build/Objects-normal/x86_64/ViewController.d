@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/ViewController.m \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/ViewController.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/CABasicAnimationViewController.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/PlayerViewController.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/IMMessageListViewController.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/ImagePicker/ImagePickerVC.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/JWVisualEffectViewVC.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/SDKTest/MDG/MintmedicalDiseaseGuidelinesKit.framework/Modules/module.modulemap \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/SDKTest/MDG/MintmedicalDiseaseGuidelinesKit.framework/Headers/MDGDiseaseGuidelMainViewController.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/SDKTest/MDG/MintmedicalDiseaseGuidelinesKit.framework/Headers/MintmedicalDiseaseGuidelinesKit.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/SDKTest/MDS/MintmedicalDrugStore.framework/Modules/module.modulemap \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/SDKTest/MDS/MintmedicalDrugStore.framework/Headers/MDSDrugStoreMainViewController.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/SDKTest/MDS/MintmedicalDrugStore.framework/Headers/MintmedicalDrugStore.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/TTTAttributedDemo/TTTDemoViewController.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/WebViewDemo/WebViewDemoViewController.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/ICONFONTDemo/ICONFONTViewController.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/TwoTableViewDemo/TwoTableViewViewController.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/NotificationViewController.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/FlipAnimationDemo/FilpAnimationViewController.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/DesignMode/DesignModeViewController.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/IteratorDemo/JWIterator.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/CalculatorDemo/NSObject+CalculatorManager.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/CalculatorDemo/CaculatorMaker.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/WavesAnimationDemo/JWWavesAnimationViewController.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/RequestTestViewController.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/JWOneClickAwayViewController.h \
+  /Users/wangzhe/Documents/我的项目/RNDemo/ios/JasonDemo/RAC/JWRACViewController.h
