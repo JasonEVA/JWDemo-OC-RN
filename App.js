@@ -42,10 +42,10 @@ class JWFlatList extends Component {
     }
 
     //点击列表点击每一行
-    _onForward() {
+    _onForward(jwKey) {
         this.props.navigator.push({
             component:YDAboutView,     // 需要跳转的页面
-            title:'关于我们'       // 跳转页面导航栏标题
+            title:jwKey      // 跳转页面导航栏标题
         });
     }
 
@@ -68,7 +68,7 @@ class JWFlatList extends Component {
     _renderItem = ({item}) => (
         <JWListItem
             id={item.id}
-            onPressItem={this._onForward}
+            onPressItem={()=>this._onForward(item.key)}
             // selected={!!this.state.selected.get(item.id)}
             jwtitle={item.key}
         />
