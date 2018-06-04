@@ -29,6 +29,7 @@
 #import "JWOneClickAwayViewController.h"
 #import "JWRACViewController.h"
 #import <React/RCTRootView.h>
+#import <CodePush/CodePush.h>
 
 #if defined (JW_TESTMARK)
 
@@ -151,8 +152,12 @@
         VC = [[JWRACViewController alloc] init];
     }
     else if (indexPath.row == 18) {
-        NSURL *jsCodeLocation = [NSURL
-                                 URLWithString:@"http://localhost:8081/index.bundle?platform=ios"];
+        
+//        NSURL *jsCodeLocation = [NSURL
+//                                 URLWithString:@"http://localhost:8081/index.bundle?platform=ios"];
+        NSURL *jsCodeLocation = [CodePush bundleURL];
+
+
         RCTRootView *rootView =
         [[RCTRootView alloc] initWithBundleURL : jsCodeLocation
                              moduleName        : @"MyReactNativeApp"

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import {NavigatorIOS,Alert,FlatList, Text, View ,StyleSheet,NativeModules} from 'react-native';
 import PropTypes from 'prop-types';
+import codePush from 'react-native-code-push';
 
 import FadeInView from './FadeInView';
 import JWListItem from './JWListItem';
@@ -12,6 +13,22 @@ var cat = require('react-native').NativeModules.RNBridgeModule;
 
 
 export default class NavigatorIOSApp extends Component {
+
+    componentDidMount() {
+        codePush.sync({
+            updateDialog: {
+                mandatoryContinueButtonLabel:'更新',
+                mandatoryUpdateMessage:'有新版本了，请您及时更新',
+                optionalIgnoreButtonLabel: '稍后',
+                optionalInstallButtonLabel: '后台更新',
+                optionalUpdateMessage: '有新版本了，是否更新？',
+                title: '更新提示'
+            },
+            mandatoryInstallMode:codePush.InstallMode.IMMEDIATE,
+            // deploymentKey: 'gcm86SIDmRPQs4jD9OvEHXWEX1TA41696933-a012-4f70-9c86-b0d3f3a2c20b',
+        });
+    }
+
     render() {
         return (
             <NavigatorIOS
@@ -20,7 +37,7 @@ export default class NavigatorIOSApp extends Component {
                     title: 'My Initial Scene',
                     leftButtonTitle:'Dismiss',   // 实例化左边按钮
                     onLeftButtonPress:()=>cat.JWDismissVC('1231231321'),  // 左边按钮点击事件
-                    rightButtonTitle:'右边',  // 实例化右边按钮
+                    rightButtonTitle:'JasonWang1',  // 实例化右边按钮
                     onRightButtonPress:() => {alert('右边')}  // 右边按钮点击事件
                 }}
                 style={{flex: 1}}

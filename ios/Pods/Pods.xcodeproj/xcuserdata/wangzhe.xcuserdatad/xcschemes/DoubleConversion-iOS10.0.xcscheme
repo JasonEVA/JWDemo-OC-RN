@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2A5F065DC11EF1133545D48E4B9E2FFE"
+               BlueprintIdentifier = "8BB28F0BACAC621309ED3FED1F6FD9D5"
                BlueprintName = "DoubleConversion-iOS10.0"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "libDoubleConversion-iOS10.0.a">

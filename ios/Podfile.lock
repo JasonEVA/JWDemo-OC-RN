@@ -14,7 +14,13 @@ PODS:
   - AFNetworking/Serialization (3.0.4)
   - AFNetworking/UIKit (3.0.4):
     - AFNetworking/NSURLSession
+  - Base64 (1.1.2)
   - boost-for-react-native (1.63.0)
+  - CodePush (5.3.4):
+    - Base64 (~> 1.1)
+    - JWT (~> 3.0.0-beta.7)
+    - React
+    - SSZipArchive (~> 2.1)
   - DateTools (1.7.0)
   - DoubleConversion (1.1.5)
   - FMDB (2.6.2):
@@ -25,6 +31,8 @@ PODS:
     - DoubleConversion
     - glog
   - glog (0.3.4)
+  - JWT (3.0.0-beta.8):
+    - Base64 (~> 1.1.2)
   - MagicalRecord (2.3.2):
     - MagicalRecord/Core (= 2.3.2)
   - MagicalRecord/Core (2.3.2)
@@ -34,6 +42,8 @@ PODS:
   - MJRefresh (3.1.12)
   - pop (1.0.9)
   - Reachability (3.2)
+  - React (0.55.4):
+    - React/Core (= 0.55.4)
   - React/Core (0.55.4):
     - yoga (= 0.55.4.React)
   - React/CxxBridge (0.55.4):
@@ -74,11 +84,13 @@ PODS:
     - SDWebImage/Core (= 3.8.1)
   - SDWebImage/Core (3.8.1)
   - SocketRocket (0.4.2)
+  - SSZipArchive (2.1.2)
   - TTTAttributedLabel (1.13.4)
   - yoga (0.55.4.React)
 
 DEPENDENCIES:
   - AFNetworking (~> 3.0.4)
+  - CodePush (from `../node_modules/react-native-code-push/CodePush.podspec`)
   - DateTools (~> 1.7.0)
   - DoubleConversion (from `../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec`)
   - FMDB (~> 2.6)
@@ -104,6 +116,8 @@ DEPENDENCIES:
   - yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
 EXTERNAL SOURCES:
+  CodePush:
+    :podspec: ../node_modules/react-native-code-push/CodePush.podspec
   DoubleConversion:
     :podspec: ../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec
   Folly:
@@ -117,12 +131,15 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: a0075feb321559dc78d9d85b55d11caa19eabb93
+  Base64: cecfb41a004124895a7bcee567a89bae5a89d49b
   boost-for-react-native: 39c7adb57c4e60d6c5479dd8623128eb5b3f0f2c
+  CodePush: 655a6dfdd99608d9351ec663f59b7d03f83860a4
   DateTools: 53288ee8b905fdc75897a1e6b5cc0144b14cba60
   DoubleConversion: e22e0762848812a87afd67ffda3998d9ef29170c
   FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
   Folly: 211775e49d8da0ca658aebc8eab89d642935755c
   glog: 1de0bb937dccdc981596d3b5825ebfb765017ded
+  JWT: 6e7ec473b6febcb7498affc84f0e75d393914411
   MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
   Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
   MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
@@ -134,9 +151,10 @@ SPEC CHECKSUMS:
   ReactiveCocoa: f89f2e009a87951b50321bf9feb958823fcc617e
   SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
   SocketRocket: ffe08119b00ef982f6c37052a4705a057c8494ad
+  SSZipArchive: d4009d2ce5520a421f231fd97028cc0e2667eed8
   TTTAttributedLabel: 0a2ac7b2dd726d32a070dafb01446026b11e624f
   yoga: a23273df0088bf7f2bb7e5d7b00044ea57a2a54a
 
-PODFILE CHECKSUM: 81e249d40f41354bee992dc5322f04efa5de1f5a
+PODFILE CHECKSUM: 62dbda89a8b8eeb3790cac927e26dfec570eaceb
 
 COCOAPODS: 1.4.0

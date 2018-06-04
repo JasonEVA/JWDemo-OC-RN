@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "64508151A953B7685AF5ED80A315DC84"
+               BlueprintIdentifier = "F82FB9DA7B3B78D8AA0ADD1140683B35"
                BlueprintName = "Folly-iOS10.0"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "libFolly-iOS10.0.a">

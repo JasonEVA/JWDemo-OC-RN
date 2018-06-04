@@ -35,7 +35,7 @@ pod 'ReactiveCocoa','~>2.1.8'
   pod 'DoubleConversion', :podspec => '../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec'
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
-
+  pod 'CodePush', :podspec => '../node_modules/react-native-code-push/CodePush.podspec'
 
 target 'JasonDemo' do
 
