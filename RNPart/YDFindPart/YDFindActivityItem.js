@@ -11,7 +11,6 @@ class YDFindActivityItem extends Component{
     };
 
     render() {
-        console.log(this.props);
         let alphaView = this.props.model.activityStatus != 1 ? <YDFindActivityItemAlphaView style = {styles.alphaStyle}/> : null; //活动结束标识
         return (
             <TouchableHighlight
@@ -20,8 +19,7 @@ class YDFindActivityItem extends Component{
                 <View style = {style = styles.container}
                 >
                     <Image
-                        defaultSource = {require('../001.png')}
-                        // source = {require('../001.png')}
+                        defaultSource = {require('./Image/activeDefult.png')}
                         style = {styles.imageStyle}
                         source = {{uri: BaseUrl + this.props.model.image}}
                     />

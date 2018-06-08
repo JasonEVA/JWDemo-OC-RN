@@ -10,6 +10,7 @@
     "npm": "^5.10.0",
     "react": "16.3.2",
     "react-native": "0.55.4",
-    "react-native-code-push": "^5.3.4"
+    "react-native-code-push": "^5.3.4",
+    "react-native-scrollable-tab-view": "^0.8.0"
   }
 }

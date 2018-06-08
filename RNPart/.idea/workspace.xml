@@ -14,22 +14,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FadeInView.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FadeInView.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
+            <state relative-caret-position="1500">
               <caret line="100" column="44" selection-start-line="100" selection-end-line="101" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -39,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="YDFindActivityList.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="YDFindActivityList.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/YDFindPart/YDFindActivityList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="108" column="86" selection-start-line="108" selection-start-column="86" selection-end-line="108" selection-end-column="86" />
+            <state relative-caret-position="268">
+              <caret line="181" column="6" selection-end-line="184" selection-end-column="40" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -54,8 +42,8 @@
       <file leaf-file-name="YDFindActivityItem.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/YDFindPart/YDFindActivityItem.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="61" />
+            <state relative-caret-position="221">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -66,7 +54,7 @@
       <file leaf-file-name="YDFindActivityItemAlphaView.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/YDFindPart/YDFindActivityItemAlphaView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
+            <state relative-caret-position="278">
               <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -79,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/JWBaseWebView.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="292">
-              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -91,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/YDAboutView.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -102,8 +90,8 @@
       <file leaf-file-name="YDFindView.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/YDFindPart/YDFindView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="188">
+              <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -111,16 +99,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="001.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001.jpg">
+      <file leaf-file-name="YDFindNotoceItem.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/YDFindPart/YDFindNotoceItem.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rightArrow@2x.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YDFindPart/Image/rightArrow@2x.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="JWListItem.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JWListItem.js">
+      <file leaf-file-name="YDFindNoticeList.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YDFindPart/YDFindNoticeList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="156">
+              <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -141,6 +141,7 @@
     <findStrings>
       <find>jwstyles</find>
       <find>jwtitle</find>
+      <find>jwitem</find>
       <find>txt</find>
     </findStrings>
   </component>
@@ -149,9 +150,11 @@
       <list>
         <option value="$PROJECT_DIR$/YDFindPart/YDFindActivityItemAlphaView.js" />
         <option value="$PROJECT_DIR$/App.js" />
-        <option value="$PROJECT_DIR$/YDFindPart/YDFindActivityItem.js" />
-        <option value="$PROJECT_DIR$/YDFindPart/YDFindView.js" />
         <option value="$PROJECT_DIR$/YDFindPart/YDFindActivityList.js" />
+        <option value="$PROJECT_DIR$/YDFindPart/YDFindView.js" />
+        <option value="$PROJECT_DIR$/YDFindPart/YDFindNoticeList.js" />
+        <option value="$PROJECT_DIR$/YDFindPart/YDFindActivityItem.js" />
+        <option value="$PROJECT_DIR$/YDFindPart/YDFindNotoceItem.js" />
       </list>
     </option>
   </component>
@@ -171,9 +174,9 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="15" />
-    <option name="y" value="23" />
+    <option name="y" value="65" />
     <option name="width" value="1440" />
     <option name="height" value="824" />
   </component>
@@ -194,6 +197,12 @@
               <item name="RNPart" type="b2602c69:ProjectViewProjectNode" />
               <item name="RNPart" type="462c0819:PsiDirectoryNode" />
               <item name="YDFindPart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RNPart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RNPart" type="462c0819:PsiDirectoryNode" />
+              <item name="YDFindPart" type="462c0819:PsiDirectoryNode" />
+              <item name="Image" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -232,26 +241,26 @@
       <updated>1528269240390</updated>
       <workItem from="1528269243296" duration="9219000" />
       <workItem from="1528337819116" duration="19027000" />
-      <workItem from="1528422586263" duration="7522000" />
+      <workItem from="1528422586263" duration="17676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35768000" />
+    <option name="totallyTimeSpent" value="45922000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="15" y="23" width="1440" height="824" extended-state="0" />
+    <frame x="4" y="23" width="1440" height="824" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5017618" side_tool="true" visible="true" weight="0.32599726" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010571" side_tool="true" visible="true" weight="0.32599726" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4982382" visible="true" weight="0.32599726" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4989429" visible="true" weight="0.32599726" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -448,7 +457,7 @@
     <entry file="file://$PROJECT_DIR$/FadeInView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -458,7 +467,7 @@
     <entry file="file://$PROJECT_DIR$/YDAboutView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -468,26 +477,27 @@
     <entry file="file://$PROJECT_DIR$/JWBaseWebView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
-          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/YDFindPart/YDFindActivityItem.js">
+    <entry file="file://$PROJECT_DIR$/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="61" />
+        <state relative-caret-position="1500">
+          <caret line="100" column="44" selection-start-line="100" selection-end-line="101" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#177#223#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/YDFindPart/YDFindActivityItemAlphaView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
+        <state relative-caret-position="278">
           <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
@@ -497,29 +507,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/YDFindPart/YDFindView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="188">
+          <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="100" column="44" selection-start-line="100" selection-end-line="101" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-            <element signature="e#177#223#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/YDFindPart/Image/rightArrow@2x.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/YDFindPart/YDFindActivityList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="108" column="86" selection-start-line="108" selection-start-column="86" selection-end-line="108" selection-end-column="86" />
+        <state relative-caret-position="268">
+          <caret line="181" column="6" selection-end-line="184" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YDFindPart/YDFindActivityItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YDFindPart/YDFindNoticeList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YDFindPart/YDFindNotoceItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
