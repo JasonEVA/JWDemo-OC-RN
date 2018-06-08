@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h
+../../../../../RNPart/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h

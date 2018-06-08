@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/Libraries/Network/RCTNetworking.h
+../../../../../RNPart/node_modules/react-native/Libraries/Network/RCTNetworking.h

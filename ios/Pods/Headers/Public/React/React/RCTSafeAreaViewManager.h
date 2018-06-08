@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewManager.h
+../../../../../../RNPart/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewManager.h

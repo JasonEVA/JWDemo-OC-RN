@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h
+../../../../../RNPart/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h

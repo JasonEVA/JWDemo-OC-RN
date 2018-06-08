@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Modules/RCTI18nManager.h
+../../../../../../RNPart/node_modules/react-native/React/Modules/RCTI18nManager.h

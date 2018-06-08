@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/UIUtils/RCTUIUtils.h
+../../../../../../RNPart/node_modules/react-native/React/UIUtils/RCTUIUtils.h

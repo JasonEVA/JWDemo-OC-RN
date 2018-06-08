@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/ReactCommon/jschelpers/Unicode.h
+../../../../../RNPart/node_modules/react-native/ReactCommon/jschelpers/Unicode.h

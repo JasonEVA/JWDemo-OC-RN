@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Views/UIView+Private.h
+../../../../../../RNPart/node_modules/react-native/React/Views/UIView+Private.h

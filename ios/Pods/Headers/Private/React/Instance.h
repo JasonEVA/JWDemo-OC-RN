@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/ReactCommon/cxxreact/Instance.h
+../../../../../RNPart/node_modules/react-native/ReactCommon/cxxreact/Instance.h

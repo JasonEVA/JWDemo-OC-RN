@@ -12,17 +12,17 @@
 		<key>JasonDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>51</integer>
+			<integer>1</integer>
 		</dict>
 		<key>JasonDemoWidget.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>53</integer>
+			<integer>2</integer>
 		</dict>
 		<key>test.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>52</integer>
+			<integer>53</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>

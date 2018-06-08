@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/ReactCommon/privatedata/PrivateDataBase.h
+../../../../../RNPart/node_modules/react-native/ReactCommon/privatedata/PrivateDataBase.h

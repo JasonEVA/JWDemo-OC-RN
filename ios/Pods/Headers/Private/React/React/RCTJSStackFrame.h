@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Base/RCTJSStackFrame.h
+../../../../../../RNPart/node_modules/react-native/React/Base/RCTJSStackFrame.h

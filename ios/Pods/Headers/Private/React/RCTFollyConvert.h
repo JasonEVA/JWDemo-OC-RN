@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/React/CxxUtils/RCTFollyConvert.h
+../../../../../RNPart/node_modules/react-native/React/CxxUtils/RCTFollyConvert.h

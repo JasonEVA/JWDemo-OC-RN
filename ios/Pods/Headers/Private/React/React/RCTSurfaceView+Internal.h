@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Base/Surface/RCTSurfaceView+Internal.h
+../../../../../../RNPart/node_modules/react-native/React/Base/Surface/RCTSurfaceView+Internal.h

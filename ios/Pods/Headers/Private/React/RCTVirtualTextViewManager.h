@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextViewManager.h
+../../../../../RNPart/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextViewManager.h

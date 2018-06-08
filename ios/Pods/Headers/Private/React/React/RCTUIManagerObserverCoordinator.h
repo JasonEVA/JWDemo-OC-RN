@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h
+../../../../../../RNPart/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h

@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.h
+../../../../../RNPart/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.h

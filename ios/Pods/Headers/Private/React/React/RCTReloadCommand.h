@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Base/RCTReloadCommand.h
+../../../../../../RNPart/node_modules/react-native/React/Base/RCTReloadCommand.h

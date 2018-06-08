@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.h
+../../../../../RNPart/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.h

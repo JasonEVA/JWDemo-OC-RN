@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Base/RCTModuleData.h
+../../../../../../RNPart/node_modules/react-native/React/Base/RCTModuleData.h

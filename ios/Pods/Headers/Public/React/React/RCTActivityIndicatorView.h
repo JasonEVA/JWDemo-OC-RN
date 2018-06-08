@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Views/RCTActivityIndicatorView.h
+../../../../../../RNPart/node_modules/react-native/React/Views/RCTActivityIndicatorView.h

@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Views/RCTMaskedViewManager.h
+../../../../../../RNPart/node_modules/react-native/React/Views/RCTMaskedViewManager.h

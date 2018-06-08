@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.h
+../../../../../../RNPart/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.h

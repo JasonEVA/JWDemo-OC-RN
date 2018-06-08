@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/React/CxxBridge/RCTCxxBridgeDelegate.h
+../../../../../RNPart/node_modules/react-native/React/CxxBridge/RCTCxxBridgeDelegate.h

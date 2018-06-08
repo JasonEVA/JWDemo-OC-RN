@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Views/RCTPickerManager.h
+../../../../../../RNPart/node_modules/react-native/React/Views/RCTPickerManager.h

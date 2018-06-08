@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Views/RCTViewManager.h
+../../../../../../RNPart/node_modules/react-native/React/Views/RCTViewManager.h

@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/Libraries/Text/RCTConvert+Text.h
+../../../../../RNPart/node_modules/react-native/Libraries/Text/RCTConvert+Text.h

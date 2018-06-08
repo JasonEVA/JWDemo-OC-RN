@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/ReactCommon/cxxreact/JSCNativeModules.h
+../../../../../RNPart/node_modules/react-native/ReactCommon/cxxreact/JSCNativeModules.h

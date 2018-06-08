@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Views/RCTTextDecorationLineType.h
+../../../../../../RNPart/node_modules/react-native/React/Views/RCTTextDecorationLineType.h

@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/ReactCommon/cxxreact/JSCTracing.h
+../../../../../RNPart/node_modules/react-native/ReactCommon/cxxreact/JSCTracing.h

@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Views/RCTNavigator.h
+../../../../../../RNPart/node_modules/react-native/React/Views/RCTNavigator.h

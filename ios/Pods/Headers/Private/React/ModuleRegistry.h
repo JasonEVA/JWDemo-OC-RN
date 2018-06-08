@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/ReactCommon/cxxreact/ModuleRegistry.h
+../../../../../RNPart/node_modules/react-native/ReactCommon/cxxreact/ModuleRegistry.h

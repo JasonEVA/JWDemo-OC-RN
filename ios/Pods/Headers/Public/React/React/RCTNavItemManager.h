@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Views/RCTNavItemManager.h
+../../../../../../RNPart/node_modules/react-native/React/Views/RCTNavItemManager.h

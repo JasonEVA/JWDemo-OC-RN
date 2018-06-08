@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h
+../../../../../RNPart/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h

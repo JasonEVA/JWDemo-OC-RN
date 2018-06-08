@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Base/Surface/RCTSurfaceDelegate.h
+../../../../../../RNPart/node_modules/react-native/React/Base/Surface/RCTSurfaceDelegate.h

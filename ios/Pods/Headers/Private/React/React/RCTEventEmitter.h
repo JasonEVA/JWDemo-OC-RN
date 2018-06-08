@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Modules/RCTEventEmitter.h
+../../../../../../RNPart/node_modules/react-native/React/Modules/RCTEventEmitter.h

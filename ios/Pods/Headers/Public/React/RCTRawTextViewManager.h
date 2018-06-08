@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/Libraries/Text/RawText/RCTRawTextViewManager.h
+../../../../../RNPart/node_modules/react-native/Libraries/Text/RawText/RCTRawTextViewManager.h

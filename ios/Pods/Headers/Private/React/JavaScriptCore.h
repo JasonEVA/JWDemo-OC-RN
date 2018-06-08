@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/ReactCommon/jschelpers/JavaScriptCore.h
+../../../../../RNPart/node_modules/react-native/ReactCommon/jschelpers/JavaScriptCore.h

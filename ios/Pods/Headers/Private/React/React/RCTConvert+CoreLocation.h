@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Views/RCTConvert+CoreLocation.h
+../../../../../../RNPart/node_modules/react-native/React/Views/RCTConvert+CoreLocation.h

@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Base/RCTVersion.h
+../../../../../../RNPart/node_modules/react-native/React/Base/RCTVersion.h

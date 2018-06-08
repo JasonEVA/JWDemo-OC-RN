@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h
+../../../../../RNPart/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h

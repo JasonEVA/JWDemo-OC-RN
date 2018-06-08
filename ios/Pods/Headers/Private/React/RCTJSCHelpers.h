@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native/React/CxxBridge/RCTJSCHelpers.h
+../../../../../RNPart/node_modules/react-native/React/CxxBridge/RCTJSCHelpers.h

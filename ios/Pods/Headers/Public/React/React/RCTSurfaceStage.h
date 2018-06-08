@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h
+../../../../../../RNPart/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h

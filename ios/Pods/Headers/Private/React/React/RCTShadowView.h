@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Views/RCTShadowView.h
+../../../../../../RNPart/node_modules/react-native/React/Views/RCTShadowView.h

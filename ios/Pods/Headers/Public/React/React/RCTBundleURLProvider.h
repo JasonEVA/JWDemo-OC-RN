@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Base/RCTBundleURLProvider.h
+../../../../../../RNPart/node_modules/react-native/React/Base/RCTBundleURLProvider.h

@@ -153,9 +153,9 @@
     }
     else if (indexPath.row == 18) {
         
-//        NSURL *jsCodeLocation = [NSURL
-//                                 URLWithString:@"http://localhost:8081/index.bundle?platform=ios"];
-        NSURL *jsCodeLocation = [CodePush bundleURL];
+        NSURL *jsCodeLocation = [NSURL
+                                 URLWithString:@"http://localhost:8081/index.bundle?platform=ios"];
+//        NSURL *jsCodeLocation = [CodePush bundleURL];
 
 
         RCTRootView *rootView =

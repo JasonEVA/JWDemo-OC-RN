@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Base/RCTRootViewInternal.h
+../../../../../../RNPart/node_modules/react-native/React/Base/RCTRootViewInternal.h

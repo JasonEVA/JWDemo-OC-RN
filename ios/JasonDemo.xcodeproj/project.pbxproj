@@ -9,10 +9,6 @@
 /* Begin PBXBuildFile section */
 		28D19277BCECD17E2E5DE478 /* libPods-JasonDemo-测试环境.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE6F14E5AA9C73FBC27A74E4 /* libPods-JasonDemo-测试环境.a */; };
 		699211F4E8A7F0FBB3F8C7E3 /* libPods-JasonDemoTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A947D648B73B321BD92BC768 /* libPods-JasonDemoTests.a */; };
-		BF08DE5620C5241000499EAB /* main.jsbundle in Resources */ = {isa = PBXBuildFile; fileRef = BF08DE5420C5241000499EAB /* main.jsbundle */; };
-		BF08DE5720C5241000499EAB /* main.jsbundle in Resources */ = {isa = PBXBuildFile; fileRef = BF08DE5420C5241000499EAB /* main.jsbundle */; };
-		BF08DE5820C5241000499EAB /* main.jsbundle.meta in Resources */ = {isa = PBXBuildFile; fileRef = BF08DE5520C5241000499EAB /* main.jsbundle.meta */; };
-		BF08DE5920C5241000499EAB /* main.jsbundle.meta in Resources */ = {isa = PBXBuildFile; fileRef = BF08DE5520C5241000499EAB /* main.jsbundle.meta */; };
 		BF5F67ED1FD931C200CFB7CB /* JWRACViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF5F67EC1FD931C200CFB7CB /* JWRACViewController.m */; };
 		BF5F67EE1FD931C200CFB7CB /* JWRACViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF5F67EC1FD931C200CFB7CB /* JWRACViewController.m */; };
 		BF71E65620BE85E100039976 /* RNBridgeModule.m in Sources */ = {isa = PBXBuildFile; fileRef = BF71E65520BE85E100039976 /* RNBridgeModule.m */; };
@@ -366,8 +362,6 @@
 		A74D66AB64B869D3C2670BED /* Pods-JasonDemo-测试环境.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JasonDemo-测试环境.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JasonDemo-测试环境/Pods-JasonDemo-测试环境.debug.xcconfig"; sourceTree = "<group>"; };
 		A947D648B73B321BD92BC768 /* libPods-JasonDemoTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-JasonDemoTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B600C1CA1D9AF72CF9D623FF /* Pods-JasonDemo-测试环境.staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JasonDemo-测试环境.staging.xcconfig"; path = "Pods/Target Support Files/Pods-JasonDemo-测试环境/Pods-JasonDemo-测试环境.staging.xcconfig"; sourceTree = "<group>"; };
-		BF08DE5420C5241000499EAB /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = main.jsbundle; path = bundle/main.jsbundle; sourceTree = SOURCE_ROOT; };
-		BF08DE5520C5241000499EAB /* main.jsbundle.meta */ = {isa = PBXFileReference; lastKnownFileType = file; name = main.jsbundle.meta; path = bundle/main.jsbundle.meta; sourceTree = SOURCE_ROOT; };
 		BF1476301FE11E8C004E017E /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 		BF5F67EB1FD931C200CFB7CB /* JWRACViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JWRACViewController.h; sourceTree = "<group>"; };
 		BF5F67EC1FD931C200CFB7CB /* JWRACViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JWRACViewController.m; sourceTree = "<group>"; };
@@ -730,8 +724,6 @@
 		BF71E65320BE85B900039976 /* RN Demo */ = {
 			isa = PBXGroup;
 			children = (
-				BF08DE5420C5241000499EAB /* main.jsbundle */,
-				BF08DE5520C5241000499EAB /* main.jsbundle.meta */,
 				BF71E65420BE85E100039976 /* RNBridgeModule.h */,
 				BF71E65520BE85E100039976 /* RNBridgeModule.m */,
 			);
@@ -1536,7 +1528,6 @@
 				BFB815141FD7BA86003FE562 /* id_5.png in Resources */,
 				BFB815151FD7BA86003FE562 /* voice_record_1@2x.png in Resources */,
 				BFB815161FD7BA86003FE562 /* voice_record_3@3x.png in Resources */,
-				BF08DE5720C5241000499EAB /* main.jsbundle in Resources */,
 				BFB815171FD7BA86003FE562 /* id_3.png in Resources */,
 				BFB815181FD7BA86003FE562 /* id_1.png in Resources */,
 				BFB815191FD7BA86003FE562 /* 123456.png in Resources */,
@@ -1554,7 +1545,6 @@
 				BFB815251FD7BA86003FE562 /* id_2.png in Resources */,
 				BFB815261FD7BA86003FE562 /* Assets.xcassets in Resources */,
 				BFB815271FD7BA86003FE562 /* voice_record_0@3x.png in Resources */,
-				BF08DE5920C5241000499EAB /* main.jsbundle.meta in Resources */,
 				BFB815281FD7BA86003FE562 /* Main.storyboard in Resources */,
 				BFB815291FD7BA86003FE562 /* MDGImage.bundle in Resources */,
 				BFB8152A1FD7BA86003FE562 /* demo.css in Resources */,
@@ -1578,7 +1568,6 @@
 				D4790B101E9B17E900B1C376 /* id_5.png in Resources */,
 				D45AEBED1CB638C000B6A4EB /* voice_record_1@2x.png in Resources */,
 				D45AEBF21CB638C000B6A4EB /* voice_record_3@3x.png in Resources */,
-				BF08DE5620C5241000499EAB /* main.jsbundle in Resources */,
 				D4790B0E1E9B17E900B1C376 /* id_3.png in Resources */,
 				D4790B0C1E9B17E900B1C376 /* id_1.png in Resources */,
 				D4B91CA11DAA3BEE00DC0570 /* 123456.png in Resources */,
@@ -1596,7 +1585,6 @@
 				D4790B0D1E9B17E900B1C376 /* id_2.png in Resources */,
 				D43ACDF61C8EA2D500C2BD84 /* Assets.xcassets in Resources */,
 				D45AEBEC1CB638C000B6A4EB /* voice_record_0@3x.png in Resources */,
-				BF08DE5820C5241000499EAB /* main.jsbundle.meta in Resources */,
 				D43ACDF41C8EA2D500C2BD84 /* Main.storyboard in Resources */,
 				D4EBEEDA1D4F223C00D64AB3 /* MDGImage.bundle in Resources */,
 				D4AEC4051D6E8FF800BF3094 /* demo.css in Resources */,

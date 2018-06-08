@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Base/RCTDisplayLink.h
+../../../../../../RNPart/node_modules/react-native/React/Base/RCTDisplayLink.h

@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/Base/RCTURLRequestHandler.h
+../../../../../../RNPart/node_modules/react-native/React/Base/RCTURLRequestHandler.h
