@@ -1,3 +1,5 @@
+// 活动半透明覆盖层
+
 import React, { Component } from 'react';
 import {View ,StyleSheet,Button,Text,Image} from 'react-native';
 

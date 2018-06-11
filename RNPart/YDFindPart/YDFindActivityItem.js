@@ -1,3 +1,5 @@
+// 活动自定义cell
+
 import React, { Component } from 'react';
 import {View ,StyleSheet,Button,Text,Image,TouchableHighlight} from 'react-native';
 

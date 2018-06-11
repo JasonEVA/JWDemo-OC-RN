@@ -1,3 +1,4 @@
+// 发现页公告list
 import React, { Component } from 'react';
 import {Alert,FlatList, Text, View ,StyleSheet} from 'react-native';
 

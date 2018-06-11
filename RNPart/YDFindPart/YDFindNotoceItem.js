@@ -1,3 +1,4 @@
+// 公告自定义cell
 import React, { Component } from 'react';
 import {View ,StyleSheet,Text,TouchableHighlight,Image} from 'react-native';
 

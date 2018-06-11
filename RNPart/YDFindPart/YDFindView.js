@@ -1,3 +1,4 @@
+// 发现页主页
 import React, { Component } from 'react';
 import {Alert,ScrollView, Text, View ,StyleSheet} from 'react-native';
 
@@ -5,12 +6,16 @@ import ScrollableTabView, { ScrollableTabBar, DefaultTabBar } from 'react-native
 
 import YDFindActivityListView from './YDFindActivityList';
 import YDFindNoticeList from './YDFindNoticeList';
+import YDFindHeader from './YDFindHeader';
 
 class YDFindView extends Component{
 
     render() {
         return (
             <View style={styles.container}>
+                <YDFindHeader
+                    navigator = {this.props.navigator}
+                />
                 <ScrollableTabView
                     style={styles.tabcontainer}
                     renderTabBar={() => <DefaultTabBar />}
@@ -48,11 +53,9 @@ var windowHeight = Dimensions.get('window').height;
 const styles = StyleSheet.create({
     container:{
         flex:1,
-        paddingTop:0
+        marginTop: 90,
     },
     tabcontainer: {
-        flex: 1,
-        marginTop: 100,
     },
     contentContainer: {
         // width:windowWidth * 2,
