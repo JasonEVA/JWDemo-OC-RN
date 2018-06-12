@@ -42,10 +42,19 @@ class YDFindNoticeList extends Component{
                     //加载更多
                     onEndReached={() => this._onLoadMore()}
                     onEndReachedThreshold={0.01}
+                    onScroll = {this.onScroll.bind(this)}
                 />}
                 />
             </View>
         );
+    }
+
+    onScroll(event) {
+        var offset = event.nativeEvent.contentOffset.y;
+        if (this.props.callback){
+            this.props.callback(offset);
+        }
+        // alert(offset);
     }
 
     fetchData()

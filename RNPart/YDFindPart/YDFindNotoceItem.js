@@ -57,7 +57,6 @@ const styles = StyleSheet.create({
         height:15,
         marginLeft:15,
         marginTop:10,
-        marginRight:15,
     },
     highlightTitleStyle:{
         textAlign: 'left',
@@ -67,7 +66,7 @@ const styles = StyleSheet.create({
         fontWeight:'bold',
         marginLeft:15,
         marginTop:10,
-        marginRight:15,
+        marginRight:45,
     },
     timeStyle:{
         textAlign: 'left',
