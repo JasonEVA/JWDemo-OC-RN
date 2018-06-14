@@ -1,6 +1,6 @@
 // 公告自定义cell
 import React, { Component } from 'react';
-import {View ,StyleSheet,Text,TouchableHighlight,Image} from 'react-native';
+import {View ,StyleSheet,Text,TouchableOpacity,Image} from 'react-native';
 
 class YDFindNotoceItem extends Component{
     _onPress = () => {
@@ -9,8 +9,9 @@ class YDFindNotoceItem extends Component{
 
     render() {
         return (
-            <TouchableHighlight
+            <TouchableOpacity
                 onPress = {this._onPress}
+                activeOpacity = {0.9}
             >
                 <View style = {style = styles.container}
                 >
@@ -27,7 +28,7 @@ class YDFindNotoceItem extends Component{
                         style = {styles.imageStyle}
                     />
                 </View>
-            </TouchableHighlight>
+            </TouchableOpacity>
 
         )
     }
@@ -72,10 +73,10 @@ const styles = StyleSheet.create({
         textAlign: 'left',
         color:'#999999',
         fontSize:12,
-        height:15,
         marginLeft:15,
         marginTop:5,
         marginRight:15,
+        marginBottom:5,
     },
 })
 module.exports = YDFindNotoceItem;

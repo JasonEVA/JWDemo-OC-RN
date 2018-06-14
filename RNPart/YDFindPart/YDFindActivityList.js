@@ -39,6 +39,7 @@ class YDFindActivityListView extends Component{
                     //下拉刷新相关
                     onRefresh={() => this._onRefresh()}
                     refreshing={this.state.isRefresh}
+                    keyExtractor={(item, index) => index.toString()}
                     //加载更多
                     onEndReached={() => this._onLoadMore()}
                     onEndReachedThreshold={0.01}
@@ -169,9 +170,8 @@ class YDFindActivityListView extends Component{
 
 }
 
-const itemHeight = 220;
 
-const separatorHeight = 0.25;
+const separatorHeight = 0.5;
 
 const styles = StyleSheet.create({
     container:{
@@ -180,7 +180,6 @@ const styles = StyleSheet.create({
     },
     cell:{
         flex:1,
-        height:itemHeight,
         // backgroundColor:'purple',
     },
 

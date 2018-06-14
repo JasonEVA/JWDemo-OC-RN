@@ -23,8 +23,8 @@ class YDFindHeader extends Component {
     render() {
         return(
             <View style = {styles.container}>
-
-                <YDFindHeaderItem
+                 <View style = {styles.headContainer}>
+                 <YDFindHeaderItem
                     imageName = {defaultImageArr[0]}
                     imageUrl = {this._isShowFromNetwork() ? this.state.headerData[0].image:''}
                     titel = {this._isShowFromNetwork() ? this.state.headerData[0].title : defaultTitelArr[0]}
@@ -47,7 +47,8 @@ class YDFindHeader extends Component {
                     imageUrl = {this._isShowFromNetwork() ? this.state.headerData[3].image:''}
                     titel = {this._isShowFromNetwork() ? this.state.headerData[3].title : defaultTitelArr[3]}
                     onPressItem={()=>this._onForward(this._isShowFromNetwork() ? JSON.parse(this.state.headerData[3].ext).url:defaultUrlArr[3])}
-                />
+                />  
+                 </View>
 
 
                 <View style = {styles.lineStyle}/>
@@ -59,7 +60,7 @@ class YDFindHeader extends Component {
     {
         var url = 'http://tapi.youdingkeji.com/yiding-rest/rest/message/getDiscoveryPageOther.json';
         // post请求描述
-        var requestDesc = {
+        var requestDesc = { 
             method:'POST',
             headers:{
                 'Content-Type':'application/x-www-form-urlencoded',
@@ -143,6 +144,9 @@ const defaultUrlArr = [ hostUrl2 + '/staticPages/appVue/dist/newEdition/index.ht
 const styles = StyleSheet.create({
     container: {
         height:92,
+    },
+    headContainer: {
+        flex:1,
         flexDirection:'row',
         justifyContent:'space-around',
         alignItems:'center',
@@ -151,12 +155,14 @@ const styles = StyleSheet.create({
         alignItems:'center',
     },
     lineStyle:{
-        height:0.25,
+        height:0.5,
+        // width:50,
         backgroundColor:'#999999',
         position:'absolute',
         left:15,
         right:15,
-        bottom:0,
+        bottom:1,
+        // marginBottom:1,
     },
     itemImageStyle:{
         width:40,

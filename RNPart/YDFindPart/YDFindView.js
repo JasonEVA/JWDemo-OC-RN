@@ -16,6 +16,7 @@ class YDFindView extends Component{
             leftLastOffset: 0,
             rightLastOffset: 0,
             anim: new Animated.Value(0), // init opacity 0
+            isHeaderShow:true,
         };
     }
     render() {
@@ -24,8 +25,8 @@ class YDFindView extends Component{
                     // opacity: this.state.anim.interpolate, // Binds directly
                     transform: [{
                         translateY: this.state.anim.interpolate({
-                            inputRange: [0, 92],
-                            outputRange: [0, 92],
+                            inputRange: [0, 100],
+                            outputRange: [0, 100],
                         }),
                     }],
                 }]}>
@@ -74,6 +75,10 @@ class YDFindView extends Component{
     }
 
     _changeBannerOffsetWithTableViewY(offsetY,isUp) {
+        if(offsetY > 500 && !this.state.isHeaderShow) {
+            return;
+        }
+        console.log(offsetY);
         var tempOffset = 1;
 
         if (offsetY > 0 && isUp) {
@@ -87,6 +92,9 @@ class YDFindView extends Component{
         if (tempOffset > 0) {
             return;
         }
+        this.setState({
+            isHeaderShow:tempOffset == 0,
+        });
 
         Animated.timing(          // Uses easing functions
             this.state.anim,    // The value to drive
@@ -97,7 +105,6 @@ class YDFindView extends Component{
             },           // Configuration
         ).start();                // Don't forget start!
 
-        // alert(isUp);
     }
 
 }
@@ -115,16 +122,13 @@ const styles = StyleSheet.create({
     tabcontainer: {
     },
     contentContainer: {
-        // width:windowWidth * 2,
         height:windowHeight,
     },
     activityStyle:{
         width:windowWidth,
-        // height:windowHeight,
     },
     noticeStyle:{
         width:windowWidth,
-        // height:windowHeight,
     },
     lineStyle: {
         width:windowWidth/2,

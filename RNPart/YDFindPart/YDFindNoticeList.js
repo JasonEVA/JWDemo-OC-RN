@@ -32,6 +32,7 @@ class YDFindNoticeList extends Component{
                     data={this.state.activeDataSource}
                     renderItem={this._renderItem}
                     ItemSeparatorComponent={this._separator}
+                    keyExtractor={(item, index) => index.toString()}
                     // ListFooterComponent={this._footer}
                     // getItemLayout={(data,index)=>(
                     //     {length: itemHeight, offset: (itemHeight+separatorHeight) * index, index}
@@ -165,9 +166,8 @@ class YDFindNoticeList extends Component{
 
 }
 
-const itemHeight = 55;
 
-const separatorHeight = 0.25;
+const separatorHeight = 0.5;
 
 const styles = StyleSheet.create({
     container:{
@@ -176,7 +176,6 @@ const styles = StyleSheet.create({
     },
     cell:{
         flex:1,
-        height:itemHeight,
         // backgroundColor:'purple',
     },
 

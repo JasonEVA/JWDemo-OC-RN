@@ -85,7 +85,7 @@ class JWFlatList extends Component {
         });
     }
 
-    _keyExtractor = (item, index) => index;
+    // _keyExtractor = (item, index) => index;
 
     render() {
     return (
@@ -95,7 +95,7 @@ class JWFlatList extends Component {
             {key: 'WebView'},
             {key: 'Find'},
           ]}
-          keyExtractor={this._keyExtractor}
+          keyExtractor={(item, index) => index.toString()}
           renderItem={this._renderItem}
           ListHeaderComponent={this._header}
           ListFooterComponent={this._footer}

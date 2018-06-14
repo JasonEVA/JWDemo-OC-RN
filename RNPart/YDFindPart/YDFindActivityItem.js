@@ -1,7 +1,7 @@
 // 活动自定义cell
 
 import React, { Component } from 'react';
-import {View ,StyleSheet,Button,Text,Image,TouchableHighlight} from 'react-native';
+import {View ,StyleSheet,Button,Text,Image,TouchableOpacity} from 'react-native';
 
 import moment from 'moment';
 
@@ -14,9 +14,12 @@ class YDFindActivityItem extends Component{
 
     render() {
         let alphaView = this.props.model.activityStatus != 1 ? <YDFindActivityItemAlphaView style = {styles.alphaStyle}/> : null; //活动结束标识
+        let titleView = this.props.model.title && this.props.model.title.length > 0 ? <Text style = {styles.titleStyle}>{this.props.model.title}</Text> : null;
+
         return (
-            <TouchableHighlight
+            <TouchableOpacity
                 onPress = {this._onPress}
+                activeOpacity = {0.9}
             >
                 <View style = {style = styles.container}
                 >
@@ -26,11 +29,11 @@ class YDFindActivityItem extends Component{
                         source = {{uri: BaseUrl + this.props.model.image}}
                     />
                     {alphaView}
-                    <Text style = {styles.titleStyle}>{this.props.model.title}</Text>
+                    {titleView}
                     <Text style = {styles.timeStyle}>{moment(this.props.model.startTime).format("YYYY-MM-DD HH:mm")}</Text>
 
                 </View>
-            </TouchableHighlight>
+            </TouchableOpacity>
 
         )
     }
@@ -72,6 +75,7 @@ const styles = StyleSheet.create({
         marginLeft:15,
         marginTop:5,
         marginRight:15,
+        marginBottom:10,
     },
     alphaStyle:{
         height:150,

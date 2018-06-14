@@ -137,6 +137,8 @@
 		BFDAE1CA20CE712600F6A50D /* main.jsbundle.meta in Resources */ = {isa = PBXBuildFile; fileRef = BFDAE1C720CE712600F6A50D /* main.jsbundle.meta */; };
 		BFDAE1CB20CE712600F6A50D /* main.jsbundle in Resources */ = {isa = PBXBuildFile; fileRef = BFDAE1C820CE712600F6A50D /* main.jsbundle */; };
 		BFDAE1CC20CE712600F6A50D /* main.jsbundle in Resources */ = {isa = PBXBuildFile; fileRef = BFDAE1C820CE712600F6A50D /* main.jsbundle */; };
+		BFE17C2320D26B7900721C88 /* bundle in Resources */ = {isa = PBXBuildFile; fileRef = BFE17C2220D26B7900721C88 /* bundle */; };
+		BFE17C2420D26B7900721C88 /* bundle in Resources */ = {isa = PBXBuildFile; fileRef = BFE17C2220D26B7900721C88 /* bundle */; };
 		BFE97A811FE22AAF00325935 /* JWRACViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE97A801FE22AAF00325935 /* JWRACViewModel.m */; };
 		BFE97A821FE22AAF00325935 /* JWRACViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE97A801FE22AAF00325935 /* JWRACViewModel.m */; };
 		D40C2F481E651B6200F5328B /* NotificationCenter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D40C2F471E651B6200F5328B /* NotificationCenter.framework */; };
@@ -379,6 +381,7 @@
 		BFB991621FECD6D900E34CB8 /* ATSModuleInteractor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ATSModuleInteractor.m; sourceTree = "<group>"; };
 		BFDAE1C720CE712600F6A50D /* main.jsbundle.meta */ = {isa = PBXFileReference; lastKnownFileType = file; name = main.jsbundle.meta; path = ../../../RNPart/main.jsbundle.meta; sourceTree = "<group>"; };
 		BFDAE1C820CE712600F6A50D /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = main.jsbundle; path = ../../../RNPart/main.jsbundle; sourceTree = "<group>"; };
+		BFE17C2220D26B7900721C88 /* bundle */ = {isa = PBXFileReference; lastKnownFileType = folder; name = bundle; path = ../../../RNPart/bundle; sourceTree = "<group>"; };
 		BFE97A7F1FE22AAF00325935 /* JWRACViewModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JWRACViewModel.h; sourceTree = "<group>"; };
 		BFE97A801FE22AAF00325935 /* JWRACViewModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JWRACViewModel.m; sourceTree = "<group>"; };
 		C354CAE1D43C2EE3C07AC29A /* Pods-JasonDemoUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JasonDemoUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-JasonDemoUITests/Pods-JasonDemoUITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -730,6 +733,7 @@
 		BF71E65320BE85B900039976 /* RN Demo */ = {
 			isa = PBXGroup;
 			children = (
+				BFE17C2220D26B7900721C88 /* bundle */,
 				BFDAE1C820CE712600F6A50D /* main.jsbundle */,
 				BFDAE1C720CE712600F6A50D /* main.jsbundle.meta */,
 				BF71E65420BE85E100039976 /* RNBridgeModule.h */,
@@ -1541,6 +1545,7 @@
 				BFB815191FD7BA86003FE562 /* 123456.png in Resources */,
 				BFB8151A1FD7BA86003FE562 /* voice_record_2@3x.png in Resources */,
 				BFB8151B1FD7BA86003FE562 /* iconfont.eot in Resources */,
+				BFE17C2420D26B7900721C88 /* bundle in Resources */,
 				BFB8151C1FD7BA86003FE562 /* iconfont.css in Resources */,
 				BFB8151D1FD7BA86003FE562 /* voice_record_3@2x.png in Resources */,
 				BFB8151E1FD7BA86003FE562 /* demo.html in Resources */,
@@ -1583,6 +1588,7 @@
 				D4B91CA11DAA3BEE00DC0570 /* 123456.png in Resources */,
 				D45AEBF01CB638C000B6A4EB /* voice_record_2@3x.png in Resources */,
 				D4AEC40B1D6E8FF800BF3094 /* iconfont.eot in Resources */,
+				BFE17C2320D26B7900721C88 /* bundle in Resources */,
 				D4AEC4091D6E8FF800BF3094 /* iconfont.css in Resources */,
 				D45AEBF11CB638C000B6A4EB /* voice_record_3@2x.png in Resources */,
 				D4AEC4071D6E8FF800BF3094 /* demo.html in Resources */,
